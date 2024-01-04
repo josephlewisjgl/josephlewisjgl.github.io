@@ -43,7 +43,7 @@ plugins:
 
 author:
   name   : "Joseph Lewis"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Full Time Senior Data Scientist with 5+ years in Civil Service. BSc Data Science and Analytics."
   links:
     - label: "Medium"
