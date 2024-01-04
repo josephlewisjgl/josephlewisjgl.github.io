@@ -58,6 +58,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/josephglewis/"
+    - label: "Credly"
+      icon: "fab fa-fw fa-id-badge"
+      url: "https://www.credly.com/users/joe-lewis.f65547f7/badges"
 
 footer:
   links:
