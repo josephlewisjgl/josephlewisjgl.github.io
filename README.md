@@ -1,8 +1,9 @@
 <h2> Welcome to my site! </h2>
 
 Hi! I'm Joseph Lewis and I am currently a Senior Data Scientist working at the Welsh Government. I have almost 5 years of experience working in Data Science having completed a degree apprenticeship while working full time 2019-2021. I have a range of experience working on natural language problems like topic modelling as well as operational research problems like using network theory.
-
-Data Science isn't just something I do in my 9-5! One of the things I'm proudest of and some of my most recent highlights have come from my blog. I have over 20 posts on Medium and a rapidly growing audience. Some things I have written about lately are: <br>
+<br>
+<br>
+I am also the author of a personal data science blog with over 150 followers and 5,000 readers. I publish on platforms like Medium with a range of publications. Some recent highlights are:
 <ul>
 <li>
   Using PyTorch for Object Detection and Classification for animation frames from the Simpsons published in Geek Culture
