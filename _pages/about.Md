@@ -3,10 +3,39 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Key Skills
+ - Programming with Python, R and SQL
+ - Cloud technologies for deployment and data science (Azure)
+ - DevOps with both GitHub and Azure DevOps
+ - Advanced data science tools including TensorFlow and PyTorch
+ - Package development and deployment in R and Python
+ - Line management
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Professional Experience
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip
+### Senior Data Scientist - *Welsh Government, 2022-Present*
+I am currently a Senior Data Scientist working at Welsh Government.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Responsibilities:
+ - Working with Python and R to build and deploy bespoke data science solutions.
+ - Scoping and interpreting customer needs on a range of concurrent projects.
+ - Pilot and lead new ways of working including Agile project management and new tools and technologies like Azure.
+ - Authoring reproducible analytical pipelines for data engineering and statistical processes.
+ - Develop capability with Data Science Tools and Techniques through seminar sessions and other development activities.
+ - Promote work more widely in public sector and open conferences.
+
+### Data Scientist/Apprentice Data Scientist - *Welsh Government, 2019-2022*
+Prior to this I worked as a Data Scientist also in the Welsh Government
+
+Responsibilities:
+ - Building high-quality production-level code and experimenting with new and novel technologies.
+ - Working to develop a data science network through seminar sessions and community participation.
+ - Developing my skills and working towards the Applied Data Science BSc.
+ - Working in statistics teams to update processes to use open tools like SQL and R.
+ - Building open data science tools for shared use by experts and beginners like StatsWalesPy.
+
+# Education
+
+### In Progress, Data Science and Analytics MSc, *Cardiff University, 2026*
+
+### First Class, Applied Data Science BSc (Hons), *Cardiff Metropolitan University, 2022*
