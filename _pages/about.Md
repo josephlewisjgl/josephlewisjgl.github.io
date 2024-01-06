@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-# Key Skills
+## Key Skills
  - Programming with Python, R and SQL
  - Cloud technologies for deployment and data science (Azure)
  - DevOps with both GitHub and Azure DevOps
@@ -11,7 +11,7 @@ title: "About"
  - Package development and deployment in R and Python
  - Line management
 
-# Professional Experience
+## Professional Experience
 
 ### Senior Data Scientist - *Welsh Government, 2022-Present*
 I am currently a Senior Data Scientist working at Welsh Government.
@@ -34,7 +34,7 @@ Responsibilities:
  - Working in statistics teams to update processes to use open tools like SQL and R.
  - Building open data science tools for shared use by experts and beginners like StatsWalesPy.
 
-# Education
+## Education
 
 ### In Progress, Data Science and Analytics MSc, *Cardiff University, 2026*
 
