@@ -1,11 +1,6 @@
----
-permalink: /about/
-title: "About"
----
-
 ## My day job 
 
-I am a full time Senior Data Scientist with the Welsh Government and some of my areas of expertise are:
+I am a full time Principal Data Scientist with the Welsh Government and some of my areas of expertise are:
 * Natural language processing
 * Large Language Models
 * Optimisation techniques
